@@ -1,5 +1,5 @@
 # [Material Dashboard 2 PRO Laravel Livewire](https://material-dashboard-pro-laravel-livewire.creative-tim.com)
-![version](https://img.shields.io/badge/version-3.0.1-blue.svg) 
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel-livewire.svg)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel-livewire/issues?q=is%3Aopen+is%3Aissue) 
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel-livewire.svg)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel-livewire/issues?q=is%3Aissue+is%3Aclosed)
 
