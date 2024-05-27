@@ -13,3 +13,6 @@ All notable changes to `Material Dashboard 2 PRO Laravel Livewire`  will be docu
 - Tag CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## [1.1.0]
+### Update to Laravel 11.x
